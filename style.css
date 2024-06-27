@@ -1,0 +1,19 @@
+input{
+    padding: 10px;
+    color: black;
+    background-color: lightgrey;
+    font-weight: bold;
+}
+
+button{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-weight: bolder;
+    color: white;
+    background-color: rgb(119, 119, 186);
+}
+
+button:hover{
+    background-color: blue;
+}
